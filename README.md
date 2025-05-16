@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=220&section=header&text=Hello%20!&fontSize=60&animation=fadeIn&fontAlignY=62&descSize=40&fontColor=fefefe&desc=I'm%20HyeungJun%20:\)&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=220&section=header&text=Hello%20!&fontSize=60&animation=fadeIn&fontAlignY=32&descSize=40&fontColor=fefefe&desc=I'm%20HyeungJun%20:\)&descAlignY=75&descAlign=50)
 <br/>
 
 <h2>💌 Contact</h2>
