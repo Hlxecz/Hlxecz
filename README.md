@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=220&section=header&text=Hello%20!&fontSize=60&animation=fadeIn&fontAlignY=28&descSize=40&fontColor=fefefe&desc=I'm%20HyeungJun%20:\)&descAlignY=45&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=220&section=header&text=HyeungJun%20!&fontSize=60&animation=fadeIn&fontAlignY=28&descSize=70)
 <br/>
 
 <h2>💌 Contact</h2>
