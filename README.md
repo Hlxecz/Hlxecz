@@ -1,7 +1,7 @@
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=32&duration=3000&pause=1000&color=0099FF&center=false&vCenter=true&width=750&height=60&lines=%22Let's+challenge,+Hyungjun!%22" />
-</div>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff6468&height=220&section=header&text=Hello!&fontSize=60&animation=fadeIn&fontAlignY=32&descSize=40&fontColor=fefefe&desc=Thanks%20for%20Visiting%20:\)&descAlignY=55&descAlign=50)
+<br/>
+<br/>
+<br/><br/><br/>
 <br/>
 
 <h2>💌 Contact</h2>
