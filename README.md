@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=220&section=header&text=Hello%20!&fontSize=60&animation=fadeIn&fontAlign=100&fontAlignY=312&desc=I'm%20HyeungJun%20:\)&descSize=40&descAlign=100&descAlignY=55&fontColor=fefefe)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=220&section=header&text=Hello%20!&fontSize=60&animation=fadeIn&fontAlign=100&fontAlignY=32&desc=I'm%20HyeungJun%20:\)&descSize=40&descAlign=100&descAlignY=55&fontColor=fefefe)
 
 <br/>
 
