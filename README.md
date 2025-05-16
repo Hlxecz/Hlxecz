@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=220&section=header&text=Hyeung%20Jun%20!&fontSize=60&animation=fadeIn&fontAlign=75&fontAlignY=30&descSize=90&fontColor=fefefe&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=220&section=header&text=Hyeung%20Jun%20!&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&descSize=90&fontColor=fefefe&descAlign=50)
 
 <br/>
 
