@@ -21,7 +21,14 @@
 <br/>
 
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-![Hlxecz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hlxecz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hlxecz&layout=compact&theme=tokyonight)
+
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Hlxecz&show_icons=true&theme=tokyonight" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hlxecz&layout=compact&theme=tokyonight" width="48%" />
+
+</div>
