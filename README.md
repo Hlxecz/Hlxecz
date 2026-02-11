@@ -15,7 +15,7 @@
 <h2>🛠 Tech Stack</h2>
 <!-- 아이콘 방식 (깔끔하고 현대적) -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,springboot,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,spring,java&perline=8" />
 </p>
 
 <br/>
