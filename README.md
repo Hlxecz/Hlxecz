@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=220&section=header&text=Hyeung%20Jun%20!&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&desc=Growing%20Step%20by%20Step%20towards%20Backend%20Excellence%20🌱&descSize=25&fontColor=f5d787&descAlign=70&descAlignY=55)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=220&section=header&text=Hyeung%20Jun%20!&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&desc=Step%20by%20Step,%20Backend%20🌱&descSize=30&fontColor=f5d787&descAlign=70&descAlignY=55)
 
 
 
