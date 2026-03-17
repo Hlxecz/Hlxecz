@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=220&section=header&text=Hyeung%20Jun%20!&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&desc=BackEnd%20Study%20Developer%20 ✨&descSize=30&fontColor=f5d787&descAlign=70&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=220&section=header&text=Hyeung%20Jun%20!&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&desc=BackEnd%20Study%20Developer%20%E2%9C%A8&descSize=30&fontColor=f5d787&descAlign=70&descAlignY=55)
 
 
 
