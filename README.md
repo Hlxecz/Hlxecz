@@ -31,3 +31,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hlxecz&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
+
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hlxecz&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Hlxecz/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
