@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hyeung%20Jun%20!&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&desc=Step%20by%20Step,%20Backend&descSize=30&fontColor=ffffff&descAlign=73&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hyeung%20Jun%20:&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&fontColor=ffffff&descAlign=73&descAlignY=55)
 
 
 
