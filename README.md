@@ -26,9 +26,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hlxecz&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&theme=tokyonight" width="48%" alt="Hlxecz GitHub 통계" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hlxecz&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&theme=tokyonight" width="48%" alt="Hlxecz 저장소 언어 통계" />
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hlxecz&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Hlxecz/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&theme=tokyonight" width="100%" alt="Hlxecz GitHub 활동 그래프" />
 
 </div>
 
