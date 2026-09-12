@@ -26,9 +26,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&theme=tokyonight" width="48%" alt="Hlxecz GitHub 통계" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&theme=github_dark" width="48%" alt="Hlxecz GitHub 통계" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&theme=tokyonight" width="48%" alt="Hlxecz 저장소 언어 통계" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&theme=github_dark" width="48%" alt="Hlxecz 저장소 언어 통계" />
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&theme=tokyonight" width="100%" alt="Hlxecz GitHub 활동 그래프" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&theme=github_dark" width="100%" alt="Hlxecz GitHub 활동 그래프" />
 
 </div>
 
