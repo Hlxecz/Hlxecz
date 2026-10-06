@@ -10,10 +10,16 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./portrait.svg" width="420" alt="ASCII portrait of Hyeung Jun" /></td>
+    <td valign="top"><img src="./portrait-card.svg" width="420" alt="Portrait of Hyeung Jun" /></td>
     <td valign="top"><img src="./info-card.svg" width="420" alt="Hyeung Jun's developer profile and tech stack" /></td>
   </tr>
 </table>
+
+<br><br>
+
+<h3><code>hlxecz@github ~ $ ./snake.sh</code></h3>
+
+<img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg" width="880" alt="Animated contribution snake" />
 
 <br><br>
 
