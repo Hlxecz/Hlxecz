@@ -19,7 +19,10 @@
 
 <h3><code>hlxecz@github ~ $ ./snake.sh</code></h3>
 
-<img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg" width="880" alt="Animated contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg" width="880" alt="Animated contribution snake" />
+</picture>
 
 <br><br>
 
