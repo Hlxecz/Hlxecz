@@ -1,37 +1,53 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hyeung%20Jun%20:&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&fontColor=ffffff&descAlign=73&descAlignY=55)
+
+<h2>💌 Contact</h2>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:azaz2661@daum.net)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hlxecz)
+[![Resume](https://img.shields.io/badge/Resume-Notion-000000?style=flat&logo=notion&logoColor=white)](https://app.notion.com/p/3d95ca61467280b1be85d3c5d973c69e)
+[![Blog](https://img.shields.io/badge/Blog-H.Dev%20Log-0A84FF?style=flat&logo=tistory&logoColor=white)](https://hlxecz.tistory.com)
+<br/>
+
+<h2>🛠 Tech Stack</h2>
+<!-- 아이콘 방식 (깔끔하고 현대적) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,spring,java&perline=8" />
+</p>
+
+<br/>
+
+
+<h2>📊 GitHub Stats</h2>
+
+
+
 <div align="center">
 
-<h3><code>hlxecz@github ~ $ ./contributions.sh</code></h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&theme=github_dark" width="48%" alt="Hlxecz GitHub 통계" />
 
-<img src="./contrib-heatmap.svg" width="880" alt="Hlxecz's GitHub contribution calendar, updated daily" />
-
-<br><br>
-
-<h3><code>hlxecz@github ~ $ whoami</code></h3>
-
-<table>
-  <tr>
-    <td valign="top"><img src="./portrait-card.svg" width="420" alt="Portrait of Hyeung Jun" /></td>
-    <td valign="top"><img src="./info-card.svg" width="420" alt="Hyeung Jun's developer profile and tech stack" /></td>
-  </tr>
-</table>
-
-<br><br>
-
-<h3><code>hlxecz@github ~ $ ./snake.sh</code></h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg" width="880" alt="Animated contribution snake" />
-</picture>
-
-<br><br>
-
-<h3><code>hlxecz@github ~ $ ./links.sh</code></h3>
-
-[![Email](https://img.shields.io/badge/Email-azaz2661%40daum.net-0d1117?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:azaz2661@daum.net)
-[![Blog](https://img.shields.io/badge/Blog-H.Dev_Log-0d1117?style=for-the-badge&logo=tistory&logoColor=white)](https://hlxecz.tistory.com)
-[![Resume](https://img.shields.io/badge/Resume-Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3d95ca61467280b1be85d3c5d973c69e)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&theme=github_dark" width="48%" alt="Hlxecz 저장소 언어 통계" />
 
 </div>
 
-<!-- Inspired by https://www.avivashishta.com/blog/build-animated-github-profile-readme -->
+
+---
+
+## 📈 Contribution Graph
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&theme=github_dark" width="100%" alt="Hlxecz GitHub 활동 그래프" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+---
