@@ -11,22 +11,27 @@
 
 <h4>Front-end</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&perline=6" alt="HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,reactnative,expo,bootstrap&perline=8&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, React, React Native, Expo, Bootstrap" />
 </p>
 
 <h4>Back-end</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,php&perline=3" alt="Java, Spring Boot, PHP" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,springsecurity,springdatajpa,php&perline=5&theme=dark" alt="Java, Spring Boot, Spring Security, Spring Data JPA, PHP" />
 </p>
 
 <h4>Database</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&perline=3" alt="MySQL, Supabase, Firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,supabase,firebase&perline=4&theme=dark" alt="MySQL, MariaDB, Supabase, Firebase" />
 </p>
 
 <h4>Infra / Deploy</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,nginx,netlify&perline=3" alt="AWS EC2, Nginx, Netlify" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,nginx,netlify&perline=3&theme=dark" alt="AWS EC2, Nginx, Netlify" />
+</p>
+
+<h4>Tools</h4>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,n8n&perline=4&theme=dark" alt="Git, GitHub, Postman, n8n" />
 </p>
 
 <br/>
