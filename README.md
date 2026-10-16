@@ -72,37 +72,41 @@
 
 <br/>
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">GitHub Activity</h2>
 
+<p align="center"><sub>개발 기록을 숫자와 그래프로</sub></p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&amp;theme=default&amp;title_color=f4f3ef&amp;text_color=a8adb9&amp;bg_color=111319&amp;border_color=343842&amp;icon_color=c8a998&amp;chart_color=91aa9b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" width="48%" alt="Hlxecz GitHub 통계" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&amp;theme=default&amp;title_color=f4f3ef&amp;text_color=a8adb9&amp;bg_color=111319&amp;border_color=343842&amp;icon_color=c8a998&amp;chart_color=91aa9b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" width="48%" alt="Hlxecz 저장소별 사용 언어" />
+  </picture>
+</p>
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&amp;theme=default&amp;title_color=f4f3ef&amp;text_color=a8adb9&amp;bg_color=111319&amp;border_color=343842&amp;icon_color=c8a998&amp;chart_color=91aa9b&amp;name=Contribution+Overview" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296&amp;name=Contribution+Overview" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296&amp;name=Contribution+Overview" width="98%" alt="Hlxecz 연간 기여 활동 그래프" />
+  </picture>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&theme=github_dark" width="48%" alt="Hlxecz GitHub 통계" />
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&theme=github_dark" width="48%" alt="Hlxecz 저장소 언어 통계" />
+<h3 align="center">Contribution Snake</h3>
 
-</div>
+<p align="center"><sub>꾸준히 쌓아가는 작은 기록들</sub></p>
 
-
----
-
-## 📈 Contribution Graph
-
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&theme=github_dark" width="100%" alt="Hlxecz GitHub 활동 그래프" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg)
-</div>
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg" width="98%" alt="Hlxecz 기여 기록을 따라 움직이는 Snake 애니메이션" />
+  </picture>
+</p>
