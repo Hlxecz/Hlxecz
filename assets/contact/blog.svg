@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="88" viewBox="0 0 260 88" role="img" aria-labelledby="title desc">
-<title id="title">H.Dev Log</title><desc id="desc">개발 과정과 기록</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202020"/><stop offset="1" stop-color="#151515"/></linearGradient></defs>
-<rect x=".5" y=".5" width="259" height="87" rx="12" fill="url(#bg)" stroke="#3D3D3D"/>
-<rect x="20" y="27" width="32" height="32" rx="7" fill="#D4D4D4" fill-opacity=".14"/><path d="m32 38-5 5 5 5m8-10 5 5-5 5m-3-12-3 16" fill="none" stroke="#D4D4D4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="66" y="41" fill="#F5F5F5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="20" font-weight="650" letter-spacing="-.4">H.Dev Log</text>
-<text x="67" y="60" fill="#A3A3A3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Apple SD Gothic Neo,Malgun Gothic,sans-serif" font-size="11">개발 과정과 기록</text>
-<path d="M224 36h9v9m0-9-11 11" fill="none" stroke="#858585" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

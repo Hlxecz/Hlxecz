@@ -1,55 +1,52 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=190&section=header&text=Hyeung%20Jun%20:&fontSize=52&animation=fadeIn&fontAlign=70&fontAlignY=30&fontColor=ffffff&descAlign=73&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hyeung%20Jun%20:&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&fontColor=ffffff&descAlign=73&descAlignY=55)
 
-<h3 align="center">Contact &amp; Links</h3>
+<h2>💌 Contact</h2>
 
-<p align="center">
-  <a href="https://app.notion.com/p/3d95ca61467280b1be85d3c5d973c69e" title="Notion 이력서 보기"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/contact/notion.svg?v=mono-1" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/contact/notion-light.svg?v=mono-1" />
-      <img src="./assets/contact/notion-light.svg?v=mono-1" width="220" alt="Notion · 이력서 보기" />
-    </picture></a>
-  <a href="https://hlxecz.tistory.com" title="H.Dev Log 기술 블로그"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/contact/blog.svg?v=mono-1" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/contact/blog-light.svg?v=mono-1" />
-      <img src="./assets/contact/blog-light.svg?v=mono-1" width="220" alt="H.Dev Log · 개발 과정과 기록" />
-    </picture></a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:azaz3769@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Notion-000000?style=flat&logo=notion&logoColor=white)](https://app.notion.com/p/3d95ca61467280b1be85d3c5d973c69e)
+[![Blog](https://img.shields.io/badge/Blog-H.Dev%20Log-0A84FF?style=flat&logo=tistory&logoColor=white)](https://hlxecz.tistory.com)
+<br/>
+
+<h2>🛠 Tech Stack</h2>
+<!-- 아이콘 방식 (깔끔하고 현대적) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,spring,java&perline=8" />
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="./assets/stack/stack-dark-compact.svg" />
-    <source media="(prefers-color-scheme: light) and (max-width: 620px)" srcset="./assets/stack/stack-light-compact.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/stack-dark.svg" />
-    <img src="./assets/stack/stack-light.svg" width="98%" alt="Front-end, Back-end, Database / BaaS, Infra / Deploy, Tools 기술 스택" />
-  </picture>
-</p>
 
-<h2 align="center">GitHub Activity</h2>
+<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-stats-dark.svg?v=mono-1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-stats-light.svg?v=mono-1" />
-    <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-stats-light.svg?v=mono-1" width="98%" alt="GitHub 통계와 저장소별 사용 언어" />
-  </picture>
-</p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-activity-dark.svg?v=mono-1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-activity-light.svg?v=mono-1" />
-    <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-activity-light.svg?v=mono-1" width="98%" alt="Hlxecz 연간 기여 활동 그래프" />
-  </picture>
-</p>
 
-<h3 align="center">Contribution Snake</h3>
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg?v=mono-1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg?v=mono-1" />
-    <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg?v=mono-1" width="98%" alt="Hlxecz 기여 기록을 따라 움직이는 Snake 애니메이션" />
-  </picture>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&theme=github_dark" width="48%" alt="Hlxecz GitHub 통계" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&theme=github_dark" width="48%" alt="Hlxecz 저장소 언어 통계" />
+
+</div>
+
+
+---
+
+## 📈 Contribution Graph
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlxecz&theme=github_dark" width="100%" alt="Hlxecz GitHub 활동 그래프" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+---
