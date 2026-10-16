@@ -23,9 +23,9 @@ jobs:
         with:
           github_user_name: Hlxecz
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#d6b7a7&color_dots=#1b2027,#2c3b35,#42594c,#658472,#94b39e
-            dist/github-contribution-grid-snake.svg?color_snake=#9c8073&color_dots=#edefeb,#d8e3db,#b8c9bf,#90a899,#668671
-      - name: Generate Activity Graph
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#f5f5f5&color_dots=#202020,#404040,#666666,#949494,#c9c9c9
+            dist/github-contribution-grid-snake.svg?color_snake=#262626&color_dots=#eeeeee,#d4d4d4,#a3a3a3,#737373,#404040
+      - name: Generate Activity and Stats
         run: node .github/scripts/activity.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
