@@ -19,8 +19,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-spacing/wide-dark.svg" />
-    <img src="./assets/stack-spacing/wide-light.svg" width="100%" alt="Front-end, Back-end, Database, Infra / Deploy, Tools: 총 24개 기술" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-spacing/wide-docker-dark.svg" />
+    <img src="./assets/stack-spacing/wide-docker-light.svg" width="100%" alt="Front-end, Back-end, Database, Infra / Deploy, Tools: 총 25개 기술" />
   </picture>
 </p>
 
