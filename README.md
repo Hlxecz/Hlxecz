@@ -8,13 +8,28 @@
 <br/>
 
 <h2>🛠 Tech Stack</h2>
-<!-- 아이콘 방식 (깔끔하고 현대적) -->
+
+<h4>Front-end</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,spring,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&perline=6" alt="HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap" />
+</p>
+
+<h4>Back-end</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,php&perline=3" alt="Java, Spring Boot, PHP" />
+</p>
+
+<h4>Database</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&perline=3" alt="MySQL, Supabase, Firebase" />
+</p>
+
+<h4>Infra / Deploy</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,nginx,netlify&perline=3" alt="AWS EC2, Nginx, Netlify" />
 </p>
 
 <br/>
-
 
 <h2>📊 GitHub Stats</h2>
 
