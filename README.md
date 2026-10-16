@@ -19,12 +19,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="./assets/stack-spacing/compact-dark.svg" />
-    <source media="(prefers-color-scheme: light) and (max-width: 620px)" srcset="./assets/stack-spacing/compact-light.svg" />
-    <source media="(prefers-color-scheme: dark) and (max-width: 1000px)" srcset="./assets/stack-spacing/medium-dark.svg" />
-    <source media="(prefers-color-scheme: light) and (max-width: 1000px)" srcset="./assets/stack-spacing/medium-light.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-spacing/wide-dark.svg" />
-    <img src="./assets/stack-spacing/wide-light.svg" alt="Front-end, Back-end, Database, Infra / Deploy, Tools: 총 24개 기술" />
+    <img src="./assets/stack-spacing/wide-light.svg" width="100%" alt="Front-end, Back-end, Database, Infra / Deploy, Tools: 총 24개 기술" />
   </picture>
 </p>
 
