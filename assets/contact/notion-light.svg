@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="148" viewBox="0 0 260 148" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="88" viewBox="0 0 260 88" role="img" aria-labelledby="title desc">
 <title id="title">Notion</title><desc id="desc">이력서 보기</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAFAF8"/><stop offset="1" stop-color="#F1F1EE"/></linearGradient></defs>
-<rect x=".5" y=".5" width="259" height="147" rx="16" fill="url(#bg)" stroke="#DDDDDA"/>
-<rect x="25" y="25" width="32" height="32" rx="7" fill="#E6E5DF"/><text x="41" y="48" text-anchor="middle" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#41433F">N</text>
-<text x="69" y="45" fill="#73756F" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">01 / RESUME</text>
-<path d="M224 30h10v10m0-10-12 12" fill="none" stroke="#85898E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="25" y="91" fill="#36393E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="25" font-weight="650" letter-spacing="-.5">Notion</text>
-<text x="26" y="117" fill="#6B7077" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Apple SD Gothic Neo,Malgun Gothic,sans-serif" font-size="12">이력서 보기</text>
+<rect x=".5" y=".5" width="259" height="87" rx="12" fill="url(#bg)" stroke="#DDDDDA"/>
+<rect x="20" y="27" width="32" height="32" rx="7" fill="#E6E5DF"/><text x="36" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#41433F">N</text>
+<text x="66" y="41" fill="#36393E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="20" font-weight="650" letter-spacing="-.4">Notion</text>
+<text x="67" y="60" fill="#6B7077" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Apple SD Gothic Neo,Malgun Gothic,sans-serif" font-size="11">이력서 보기</text>
+<path d="M224 36h9v9m0-9-11 11" fill="none" stroke="#85898E" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

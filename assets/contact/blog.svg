@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="148" viewBox="0 0 260 148" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="88" viewBox="0 0 260 88" role="img" aria-labelledby="title desc">
 <title id="title">H.Dev Log</title><desc id="desc">개발 과정과 기록</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B1E25"/><stop offset="1" stop-color="#111319"/></linearGradient></defs>
-<rect x=".5" y=".5" width="259" height="147" rx="16" fill="url(#bg)" stroke="#343842"/>
-<rect x="25" y="25" width="32" height="32" rx="7" fill="#ed967f" fill-opacity=".14"/><path d="m37 36-5 5 5 5m8-10 5 5-5 5m-3-12-3 16" fill="none" stroke="#ec967f" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="69" y="45" fill="#EC967F" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">02 / BLOG</text>
-<path d="M224 30h10v10m0-10-12 12" fill="none" stroke="#868C98" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="25" y="91" fill="#F4F3EF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="25" font-weight="650" letter-spacing="-.5">H.Dev Log</text>
-<text x="26" y="117" fill="#A8ADB9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Apple SD Gothic Neo,Malgun Gothic,sans-serif" font-size="12">개발 과정과 기록</text>
+<rect x=".5" y=".5" width="259" height="87" rx="12" fill="url(#bg)" stroke="#343842"/>
+<rect x="20" y="27" width="32" height="32" rx="7" fill="#EC967F" fill-opacity=".14"/><path d="m32 38-5 5 5 5m8-10 5 5-5 5m-3-12-3 16" fill="none" stroke="#EC967F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="41" fill="#F4F3EF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="20" font-weight="650" letter-spacing="-.4">H.Dev Log</text>
+<text x="67" y="60" fill="#A8ADB9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Apple SD Gothic Neo,Malgun Gothic,sans-serif" font-size="11">개발 과정과 기록</text>
+<path d="M224 36h9v9m0-9-11 11" fill="none" stroke="#868C98" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
