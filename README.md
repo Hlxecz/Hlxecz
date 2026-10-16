@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=header&text=Hyeung%20Jun%20:&fontSize=42&animation=fadeIn&fontAlign=70&fontAlignY=30&fontColor=ffffff&descAlign=73&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=190&section=header&text=Hyeung%20Jun%20:&fontSize=52&animation=fadeIn&fontAlign=70&fontAlignY=30&fontColor=ffffff&descAlign=73&descAlignY=55)
 
 <h3 align="center">Contact &amp; Links</h3>
 
@@ -15,52 +15,39 @@
     </picture></a>
 </p>
 
-<h2>🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="140">Field</th>
-      <th align="left">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Front-end</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-8F613D?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" height="28" width="119" /> <img src="https://img.shields.io/badge/TypeScript-46678A?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" width="122" /> <img src="https://img.shields.io/badge/HTML5-A45D43?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" height="28" width="91" /> <img src="https://img.shields.io/badge/CSS3-52789B?style=flat-square" alt="CSS3" height="28" width="55" />
-        <br />
-        <img src="https://img.shields.io/badge/React-426778?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" height="28" width="83" /> <img src="https://img.shields.io/badge/React%20Native-426778?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React Native" height="28" width="136" /> <img src="https://img.shields.io/badge/Expo-444444?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo" height="28" width="77" /> <img src="https://img.shields.io/badge/Bootstrap-79618E?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" height="28" width="113" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Back-end</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-80644C?style=flat-square" alt="Java" height="28" width="49" /> <img src="https://img.shields.io/badge/Spring%20Boot-587A45?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="28" width="130" /> <img src="https://img.shields.io/badge/Spring%20Security-587A45?style=flat-square&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security" height="28" width="158" />
-        <br />
-        <img src="https://img.shields.io/badge/Spring%20Data%20JPA-587A45?style=flat-square" alt="Spring Data JPA" height="28" width="139" /> <img src="https://img.shields.io/badge/PHP-6D6489?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" height="28" width="69" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Database / BaaS</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-486B82?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="28" width="94" /> <img src="https://img.shields.io/badge/MariaDB-76624F?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB" height="28" width="105" /> <img src="https://img.shields.io/badge/Supabase-487D66?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" height="28" width="113" /> <img src="https://img.shields.io/badge/Firebase-9A7536?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase" height="28" width="105" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Infra / Deploy</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS%20EC2-8F6A36?style=flat-square" alt="AWS EC2" height="28" width="85" /> <img src="https://img.shields.io/badge/Nginx-47705A?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx" height="28" width="83" /> <img src="https://img.shields.io/badge/Netlify-407C7B?style=flat-square&amp;logo=netlify&amp;logoColor=white" alt="Netlify" height="28" width="88" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-A25D4C?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" height="28" width="60" /> <img src="https://img.shields.io/badge/GitHub-444444?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" height="28" width="91" /> <img src="https://img.shields.io/badge/Postman-B66E4D?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman" height="28" width="105" /> <img src="https://img.shields.io/badge/n8n-A86070?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n" height="28" width="69" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h4 align="center">Front-end</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-8F613D?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" height="28" width="119" /> <img src="https://img.shields.io/badge/TypeScript-46678A?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" width="122" /> <img src="https://img.shields.io/badge/HTML5-A45D43?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" height="28" width="91" /> <img src="https://img.shields.io/badge/CSS3-52789B?style=flat-square" alt="CSS3" height="28" width="55" />
+  <br />
+  <img src="https://img.shields.io/badge/React-426778?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" height="28" width="83" /> <img src="https://img.shields.io/badge/React%20Native-426778?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React Native" height="28" width="136" /> <img src="https://img.shields.io/badge/Expo-444444?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo" height="28" width="77" /> <img src="https://img.shields.io/badge/Bootstrap-79618E?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" height="28" width="113" />
+</p>
+
+<h4 align="center">Back-end</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-80644C?style=flat-square" alt="Java" height="28" width="49" /> <img src="https://img.shields.io/badge/Spring%20Boot-587A45?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="28" width="130" /> <img src="https://img.shields.io/badge/Spring%20Security-587A45?style=flat-square&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security" height="28" width="158" /> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-587A45?style=flat-square" alt="Spring Data JPA" height="28" width="139" /> <img src="https://img.shields.io/badge/PHP-6D6489?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" height="28" width="69" />
+</p>
+
+<h4 align="center">Database / BaaS</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-486B82?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="28" width="94" /> <img src="https://img.shields.io/badge/MariaDB-76624F?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB" height="28" width="105" /> <img src="https://img.shields.io/badge/Supabase-487D66?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" height="28" width="113" /> <img src="https://img.shields.io/badge/Firebase-9A7536?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase" height="28" width="105" />
+</p>
+
+<h4 align="center">Infra / Deploy</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20EC2-8F6A36?style=flat-square" alt="AWS EC2" height="28" width="85" /> <img src="https://img.shields.io/badge/Nginx-47705A?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx" height="28" width="83" /> <img src="https://img.shields.io/badge/Netlify-407C7B?style=flat-square&amp;logo=netlify&amp;logoColor=white" alt="Netlify" height="28" width="88" />
+</p>
+
+<h4 align="center">Tools</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-A25D4C?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" height="28" width="60" /> <img src="https://img.shields.io/badge/GitHub-444444?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" height="28" width="91" /> <img src="https://img.shields.io/badge/Postman-B66E4D?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman" height="28" width="105" /> <img src="https://img.shields.io/badge/n8n-A86070?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n" height="28" width="69" />
+</p>
 
 <h2 align="center">GitHub Activity</h2>
 
