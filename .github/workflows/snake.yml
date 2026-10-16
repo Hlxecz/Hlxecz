@@ -23,8 +23,10 @@ jobs:
         with:
           github_user_name: Hlxecz
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#38bdf8&color_dots=#161b22,#272c34,#373e48,#4b5563,#6b7280
+            dist/github-contribution-grid-snake.svg?color_snake=#0369a1&color_dots=#e5e7eb,#cbd5e1,#94a3b8,#64748b,#475569
+            dist/github-contribution-grid-snake-contrast-dark.svg?color_snake=#38bdf8&color_dots=#161b22,#272c34,#373e48,#4b5563,#6b7280
+            dist/github-contribution-grid-snake-contrast.svg?color_snake=#0369a1&color_dots=#e5e7eb,#cbd5e1,#94a3b8,#64748b,#475569
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

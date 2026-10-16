@@ -59,9 +59,12 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg)
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-contrast-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-contrast.svg" />
+    <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-contrast.svg" width="100%" alt="기여 기록을 따라 움직이는 파란색 Snake" />
+  </picture>
+</p>
 
 ---
