@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hyeung%20Jun%20:&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&fontColor=ffffff&descAlign=73&descAlignY=55)
 
-<h2>💌 Contact</h2>
 
 <p>
   <a href="https://app.notion.com/p/3d95ca61467280b1be85d3c5d973c69e" title="이력서 보기 · 프로젝트와 경험을 한눈에">
