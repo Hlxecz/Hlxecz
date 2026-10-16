@@ -25,6 +25,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=#d6b7a7&color_dots=#1b2027,#2c3b35,#42594c,#658472,#94b39e
             dist/github-contribution-grid-snake.svg?color_snake=#9c8073&color_dots=#edefeb,#d8e3db,#b8c9bf,#90a899,#668671
+      - name: Generate Activity Graph
+        run: node .github/scripts/activity.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_LOGIN: Hlxecz
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

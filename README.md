@@ -68,18 +68,22 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&amp;theme=default&amp;title_color=f4f3ef&amp;text_color=a8adb9&amp;bg_color=111319&amp;border_color=343842&amp;icon_color=c8a998&amp;chart_color=91aa9b" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" width="270" alt="Hlxecz GitHub 통계" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" width="340" alt="Hlxecz GitHub 통계" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&amp;theme=default&amp;title_color=f4f3ef&amp;text_color=a8adb9&amp;bg_color=111319&amp;border_color=343842&amp;icon_color=c8a998&amp;chart_color=91aa9b" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" width="270" alt="Hlxecz 저장소별 사용 언어" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296" width="340" alt="Hlxecz 저장소별 사용 언어" />
   </picture>
 
+
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hlxecz&amp;theme=default&amp;title_color=f4f3ef&amp;text_color=a8adb9&amp;bg_color=111319&amp;border_color=343842&amp;icon_color=c8a998&amp;chart_color=91aa9b&amp;utcOffset=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296&amp;utcOffset=9" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hlxecz&amp;theme=default&amp;title_color=36393e&amp;text_color=6b7077&amp;bg_color=fafaf8&amp;border_color=dddddA&amp;icon_color=8b746d&amp;chart_color=8da296&amp;utcOffset=9" width="270" alt="Hlxecz 한국 시간대별 커밋 그래프" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-activity-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-activity-light.svg" />
+    <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-activity-light.svg" width="98%" alt="Hlxecz 연간 기여 활동 그래프" />
   </picture>
 </p>
 
@@ -89,6 +93,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg" width="560" alt="Hlxecz 기여 기록을 따라 움직이는 Snake 애니메이션" />
+    <img src="https://raw.githubusercontent.com/Hlxecz/Hlxecz/output/github-contribution-grid-snake.svg" width="98%" alt="Hlxecz 기여 기록을 따라 움직이는 Snake 애니메이션" />
   </picture>
 </p>
